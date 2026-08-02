@@ -4,5 +4,6 @@ Repositório destinado ao armazenamento da primeira atividade referente a cadeir
 # Dia 1:
 1 - Commit do HTML com sua estrutura Básica para início do projeto.
 2 - Estruturação do projeto de acordo com o documento de requisitor enviado no ClassRoom.
-3 - Adição de um Fivicon de acordo com o tema
-4 - Adição de um Banner gerado por IA com as forças especiais das quais pretendo abordar
+3 - Adição de um Fivicon de acordo com o tema.
+4 - Adição de um Banner gerado por IA com as forças especiais das quais pretendo abordar.
+5 - Adição de uma section de introdução.

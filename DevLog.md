@@ -7,3 +7,4 @@ Repositório destinado ao armazenamento da primeira atividade referente a cadeir
 3 - Adição de um Fivicon de acordo com o tema.
 4 - Adição de um Banner gerado por IA com as forças especiais das quais pretendo abordar.
 5 - Adição de uma section de introdução.
+6 - Criação do primeiro Card do BOPE que será usado como modelo para os demais.

@@ -28,3 +28,4 @@ Repositório destinado ao armazenamento da primeira atividade referente a cadeir
 11 - Complementação do css para tornar o contact.html mais bonito visualmente utilizando propriedades nos campos e botões
 12 - Adição de um vídeo ao index.html
 13 - Estilização do vídeo
+14 - Ajuste na imagem do desenvolvedor no about.html

@@ -22,3 +22,8 @@ Repositório destinado ao armazenamento da primeira atividade referente a cadeir
 5 - Criação do nono Card do BPCHOQUE com base no Card base
 6 - Criação do décimo Card do COE com base no Card base
 7 - Criação de um .CSS básico para melhorar a visibilidade do site
+8 - Implementação do about.html utilizando a estrutura básica do index e aproveitando o css sem adicionar novas propriedades
+9 - Implementação do contatct.html utilizando a estrutura de header e footer do index
+10 - Criação dos campos dos formulários utilizando diferentes estratégias de preenchimento e adicionando botões.
+11 - Complementação do css para tornar o contact.html mais bonito visualmente utilizando propriedades nos campos e botões
+12 - Adição de um vídeo ao index.html

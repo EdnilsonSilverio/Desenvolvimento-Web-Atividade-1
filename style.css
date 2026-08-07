@@ -122,3 +122,77 @@ footer{
     padding: 20px;
     margin-top: 30px;
 }
+
+/* Estilização do formulário */
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+input[type="date"],
+input[type="number"],
+select,
+textarea{
+    width: 100%;
+    max-width: 400px;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-family: inherit;
+    font-size: 1rem;
+    background-color: white;
+}
+
+/* Destaque ao clicar num campo */
+input:focus,
+select:focus,
+textarea:focus{
+    outline: none;
+    border-color: #2f4f2f;
+    box-shadow: 0 0 0 2px rgba(47, 79, 47, 0.2);
+}
+
+/* Labels com mais destaque */
+label{
+    font-weight: bold;
+    color: #2f4f2f;
+}
+
+/* Range e number ficam mais estranhos com width: 100%, então tratamos à parte */
+input[type="range"],
+input[type="number"]{
+    max-width: 250px;
+}
+
+input[type="checkbox"],
+input[type="radio"]{
+    margin-right: 6px;
+    accent-color: #2f4f2f;
+}
+
+/* Botões do formulário */
+button{
+    padding: 10px 20px;
+    margin-right: 10px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 6px;
+    background-color: #2f4f2f;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+button:hover{
+    background-color: #d4af37;
+    color: #2f4f2f;
+}
+
+button[type="reset"]{
+    background-color: #999;
+}
+
+button[type="reset"]:hover{
+    background-color: #777;
+    color: white;
+}

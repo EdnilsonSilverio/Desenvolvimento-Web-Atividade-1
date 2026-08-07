@@ -12,4 +12,9 @@ Repositório destinado ao armazenamento da primeira atividade referente a cadeir
 # Dia 2:
 1 - Criação do segundo Card do COMANF com base no Card base
 2 - Criação do tercerio Card do COpEsp com base no Card base
-3 - Criação do quarto Cardo do GRUMEC com base no Card base
+3 - Criação do quarto Card do GRUMEC com base no Card base
+
+# Dia 3:
+1 - Criação do quinto Card do COT com base no Card base
+1 - Criação do sexto Card do CORE com base no Card base
+1 - Criação do sétimo Card do GATE com base no Card base

@@ -20,3 +20,4 @@ Repositório destinado ao armazenamento da primeira atividade referente a cadeir
 3 - Criação do sétimo Card do GATE com base no Card base
 4 - Criação do oitavo Card do CIOPAER com base no Card base
 5 - Criação do nono Card do BPCHOQUE com base no Card base
+6 - Criação do décimo Card do COE com base no Card base
